@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="314" viewBox="0 0 580 314" role="img" aria-labelledby="title desc">
+<title id="title">Agent Usage Card (sample data)</title>
+<desc id="desc">Claude Code: 1120000 tokens. Codex: 930000 tokens. Seven days ending 2026-11-16.</desc>
+<style>
+  text { font-family: system-ui, -apple-system, Segoe UI, sans-serif; fill: #F0F5FF; }
+  .title { font-weight: 720; font-size: 27px; }
+  .label { font-size: 13px; font-weight: 650; }
+  .value { font-size: 24px; font-weight: 720; }
+  .small { fill: #AABAD1; font-size: 12px; font-weight: 500; }
+</style>
+<rect x="0.5" y="0.5" width="579" height="313" rx="17" fill="#111B2B" stroke="#33465E" />
+<text x="28" y="45" class="title">Agent Usage</text>
+<text x="28" y="69" class="small">2026-11-10 to 2026-11-16 · local dates · Sample data</text>
+<g transform="translate(28,94)">
+  <rect width="254" height="79" rx="12" fill="#1A2739" />
+  <circle cx="17" cy="18" r="4" fill="#FFB18D" />
+  <text x="29" y="22" class="label">Claude Code</text>
+  <text x="15" y="49" class="value">1.1M<tspan class="small"> tokens</tspan></text>
+  <text x="15" y="67" class="small">6/7 active days · 55% of tokens</text>
+</g>
+<g transform="translate(298,94)">
+  <rect width="254" height="79" rx="12" fill="#1A2739" />
+  <circle cx="17" cy="18" r="4" fill="#79E3CF" />
+  <text x="29" y="22" class="label">Codex</text>
+  <text x="15" y="49" class="value">930K<tspan class="small"> tokens</tspan></text>
+  <text x="15" y="67" class="small">5/7 active days · 45% of tokens</text>
+</g>
+<text x="28" y="194" class="label">Daily tokens</text>
+<rect x="47" y="205" width="48" height="64" rx="5" fill="#1A2739" /><rect x="47" y="239.91" width="48" height="29.09" fill="#FFB18D" /><rect x="47" y="223.62" width="48" height="16.29" fill="#79E3CF" /><text x="71" y="288" text-anchor="middle" class="small">11-10</text>
+<rect x="124" y="205" width="48" height="64" rx="5" fill="#1A2739" /><rect x="124" y="250.38" width="48" height="18.62" fill="#FFB18D" /><text x="148" y="288" text-anchor="middle" class="small">11-11</text>
+<rect x="201" y="205" width="48" height="64" rx="5" fill="#1A2739" /><rect x="201" y="246.89" width="48" height="22.11" fill="#79E3CF" /><text x="225" y="288" text-anchor="middle" class="small">11-12</text>
+<rect x="278" y="205" width="48" height="64" rx="5" fill="#1A2739" /><rect x="278" y="244.56" width="48" height="24.44" fill="#FFB18D" /><rect x="278" y="229.44" width="48" height="15.13" fill="#79E3CF" /><text x="302" y="288" text-anchor="middle" class="small">11-13</text>
+<rect x="355" y="205" width="48" height="64" rx="5" fill="#1A2739" /><rect x="355" y="248.05" width="48" height="20.95" fill="#FFB18D" /><rect x="355" y="229.44" width="48" height="18.62" fill="#79E3CF" /><text x="379" y="288" text-anchor="middle" class="small">11-14</text>
+<rect x="432" y="205" width="48" height="64" rx="5" fill="#1A2739" /><rect x="432" y="259.69" width="48" height="9.31" fill="#FFB18D" /><text x="456" y="288" text-anchor="middle" class="small">11-15</text>
+<rect x="509" y="205" width="48" height="64" rx="5" fill="#1A2739" /><rect x="509" y="241.07" width="48" height="27.93" fill="#FFB18D" /><rect x="509" y="205.00" width="48" height="36.07" fill="#79E3CF" /><text x="533" y="288" text-anchor="middle" class="small">11-16</text>
+</svg>
